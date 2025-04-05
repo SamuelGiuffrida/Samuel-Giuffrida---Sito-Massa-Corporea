@@ -40,5 +40,6 @@ justify-content: center;
 #contenuto2
 {
  color: black;
- font-size: larger;
+ width: 50px;
+ margin-left: 5%;
 }
