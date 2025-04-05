@@ -14,7 +14,7 @@
 
 .container
 {
-height: 400%;
+height: 50px;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
