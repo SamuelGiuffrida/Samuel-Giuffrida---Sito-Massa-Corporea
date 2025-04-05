@@ -1,6 +1,7 @@
 #header
 {
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 5%;
 }
 
@@ -8,8 +9,10 @@
 {
  color:black ;
  font-size: large;
- margin: 5%;
- margin-bottom: 1%;
+ margin-bottom: 2%;
+ margin-left: 5%;
+ margin-right: 5%;
+ 
 }
 
 .container
@@ -19,6 +22,7 @@ display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 background-color: orangered;
+margin-top: 2%;
 margin-left: 5%;
 margin-right: 5%;
 justify-content: center;
