@@ -61,3 +61,24 @@ justify-content: center;
  margin-top:2%;
  font-size: 20px;
 }
+
+.container2
+{
+height: 50px;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+background-color: rgb(201, 180, 172);
+margin-top: 2%;
+margin-left: 5%;
+margin-right: 5%;
+justify-content: center;
+}
+
+.nav-items2
+{
+ color: rgb(0, 0, 0);
+ justify-items: left;
+ margin: 5px;
+ font-size: 25px;
+}
