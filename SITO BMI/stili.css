@@ -11,13 +11,12 @@
  margin-left: 5%;
 }
 
-.container {
-    background-color: orange;
-}
-.nav
+.nav-contenitore
 {
-    background-color: orange;
     display: flex;
     flex-direction: row;
-    gap: 0;
+}
+.nav-items
+{
+    justify-items: auto;
 }
