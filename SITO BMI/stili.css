@@ -22,4 +22,5 @@ background-color: orangered;
  .nav-items
 {
  color: white;
+ justify-items: center;
 }
