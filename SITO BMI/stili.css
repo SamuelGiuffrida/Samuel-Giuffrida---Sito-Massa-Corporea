@@ -20,6 +20,7 @@
 {
 height: 50px;
 position: sticky;
+justify-content: left;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
@@ -29,11 +30,8 @@ margin-left: 5%;
 margin-right: 5%;
 justify-content: center;
 }
-@media (max-width: 800px) {
-    .container {
-      flex-direction: column;
-    }
-  }
+
+
 
  .nav-items
 {
