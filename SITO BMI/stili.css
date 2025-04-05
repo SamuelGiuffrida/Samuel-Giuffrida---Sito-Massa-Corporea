@@ -19,6 +19,7 @@
 .container
 {
 height: 50px;
+position: sticky;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
