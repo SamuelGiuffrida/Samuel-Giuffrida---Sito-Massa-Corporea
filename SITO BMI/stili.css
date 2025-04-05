@@ -11,13 +11,24 @@
  margin-left: 5%;
 }
 
-nav{
-background-color: #ff4800;
-height: 5vh;
-position: sticky;
-top: 10vh;
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: left;
+.container
+{
+    max-width:800px;
+    margin:30px auto;
+    background: orangered;
+    height:200px;
+    line-height:200px;
+    overflow: hidden;
+}
+
+ .nav-items
+{
+    margin:0;
+    padding:0;
+    width:200px;
+    height:200px;
+    background:orangered;
+    text-align:center;
+    color: #fff;
+    font-size:30px;
 }
