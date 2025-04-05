@@ -11,7 +11,7 @@
  margin-left: 5%;
 }
 
-#nav
+.nav
 {
     background-color: orange;
     display: flex;
