@@ -17,19 +17,19 @@ display: flex;
 -webkit-justify-content: space-between;
 -moz-justify-content: space-between;
 justify-content: space-between;
-width: 800px;
-height: 200px;
-background-color:lightgrey;
-margin:30px auto;
+width: 100%;
+height: 20px;
+background-color: orangered;
+margin:2px auto;
 }
 
  .nav-items
 {
-background-color:cornflowerblue;
-width: 200px;
-height:200px;
-line-height:200px;
+background-color: orangered;
+width: 100%;
+height:20px;
+line-height:100%;
 text-align:center;
 color: #fff;
-font-size:30px;
+font-size:100%;
 }
