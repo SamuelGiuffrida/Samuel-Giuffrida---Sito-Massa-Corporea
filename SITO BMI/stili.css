@@ -11,20 +11,14 @@
  margin-left: 5%;
 }
 
-.nav-contenitore
-{
-    display: flex;
-    flex-direction: row;
-    background-color: orangered;
-    flex-wrap: wrap;
+nav{
+    background-color: #00ff00;
+border: 1px solid black;
+height: 5vh;
+position: sticky;
+top: 10vh;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: left;
 }
-.nav-items
-{
-    justify-content:flex-start;
-    background-color: orangered;
-    width: 110%;
-    margin: 5%;
-    text-align: center;
-    font-size: 120%;
-}
-
