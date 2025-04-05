@@ -22,13 +22,17 @@ height: 50px;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
-position: sticky;
 background-color: orangered;
 margin-top: 2%;
 margin-left: 5%;
 margin-right: 5%;
 justify-content: center;
 }
+@media (max-width: 800px) {
+    .container {
+      flex-direction: column;
+    }
+  }
 
  .nav-items
 {
@@ -36,7 +40,6 @@ justify-content: center;
  justify-items: center;
  margin: 5px;
  font-size: 25px;
- position: relative;
 
 }
 
