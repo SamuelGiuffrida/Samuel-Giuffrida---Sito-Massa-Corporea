@@ -11,6 +11,9 @@
  margin-left: 5%;
 }
 
+.container {
+    background-color: orange;
+}
 .nav
 {
     background-color: orange;
