@@ -21,7 +21,7 @@
     overflow: hidden;
 }
 
- .nav-items
+ .nav-items , .nav-poll
 {
     margin:0;
     padding:0;
