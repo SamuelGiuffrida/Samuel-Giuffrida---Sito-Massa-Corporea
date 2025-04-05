@@ -26,10 +26,11 @@ margin:2px auto;
  .nav-items
 {
 background-color: orangered;
-width: 20px;
+width: 100%;
 height:20px;
-line-height:20px;
+line-height:100%;
 text-align:center;
 color: #fff;
-font-size:10px;
+font-size:200%;
+flex-wrap: wrap;
 }
