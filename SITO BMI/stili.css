@@ -10,3 +10,11 @@
  font-size: large;
  margin-left: 5%;
 }
+
+#nav
+{
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+}
