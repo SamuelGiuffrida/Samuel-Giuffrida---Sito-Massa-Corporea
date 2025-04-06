@@ -105,10 +105,18 @@ margin:5px;
 {
 display:flex;
 flex-direction: column;
-position:absolute;
+position: absolute;
 left:90%;
 right:10px;
-top:150px;
+top:1000px;
+}
+
+@media (width<800px)
+{
+  .aside
+  {
+   position:relative;
+  }  
 }
 
 .aside-items
