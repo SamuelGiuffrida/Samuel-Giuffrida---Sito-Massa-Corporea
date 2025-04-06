@@ -12,6 +12,7 @@
    position:relative;
    left: auto;
    right: auto;
+   width: 10%;
   }  
 }
 
@@ -129,6 +130,7 @@ width: 300px;
    left: auto;
    right: auto;
    flex-direction: row;
+   width: 10%;
   }  
 }
 
