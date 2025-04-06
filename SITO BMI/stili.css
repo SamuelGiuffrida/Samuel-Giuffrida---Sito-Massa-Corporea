@@ -126,9 +126,6 @@ width: 300px;
 {
   .aside 
   {
-   position:relative;
-   left: auto;
-   right: auto;
    flex-direction: column;
    flex-wrap: wrap;
    justify-content: center;
