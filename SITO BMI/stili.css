@@ -101,10 +101,19 @@ margin:5px;
  height: 150px;
 }
 
+.aside
+{
+display:flex;
+flex-direction: column;
+position:absolute;
+left:90%;
+right:10px;
+top:150px;
+}
+
 .aside-items
 {
  background-color: white;
- height:150px;
 }
 
 
