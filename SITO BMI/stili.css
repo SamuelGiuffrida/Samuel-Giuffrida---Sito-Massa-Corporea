@@ -108,7 +108,7 @@ flex-direction: column;
 position: absolute;
 left:90%;
 right:10px;
-top:100px;
+top:50px;
 }
 
 @media (width<800px)
