@@ -115,6 +115,7 @@ top:50%;
   .aside
   {
    position:relative;
+   flex-direction: row;
   }  
 }
 
@@ -123,7 +124,8 @@ top:50%;
  background-color: orangered;
  margin-right: 5%;
  margin-bottom: 3%;
- color: black;
+ color: rgb(255, 255, 255);
+ font-size: larger;
 }
 
 
