@@ -93,7 +93,9 @@ margin:5px;
 {
  color:black ;
  justify-items: left;
- margin: 5px;
+ margin: 2px;
+ margin-left: 5%;
+ margin-right: 5%;
  font-size: 25px;
  background-color: rgba(189, 183, 181, 0.781);
  height: 150px;
