@@ -106,11 +106,8 @@ margin:5px;
 display:flex;
 flex-direction: column;
 position: absolute;
-left:90%;
+left:80%;
 top:50%;
-margin-right: 5%;
-margin-bottom: 3%;
-
 }
 
 @media (width<800px)
