@@ -130,7 +130,7 @@ width: 300px;
    left: auto;
    right: auto;
    flex-direction: row;
-   width: 10%;
+   max-width: 50px;
   }  
 }
 
