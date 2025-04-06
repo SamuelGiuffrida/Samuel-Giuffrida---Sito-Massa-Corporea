@@ -124,11 +124,12 @@ width: 300px;
 
 @media (width<800px)
 {
-  .aside 
+  .aside, .aside-items
   {
    position:relative;
-   left: 50%;
-   right: 50%;
+   left: auto;
+   right: auto;
+   flex-direction: column;
    flex-wrap: wrap;
    justify-content: center;
    
