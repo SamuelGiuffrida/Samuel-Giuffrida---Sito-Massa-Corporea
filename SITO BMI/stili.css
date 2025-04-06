@@ -132,6 +132,11 @@ width: 300px;
  border-bottom: none;
 }
 
+table, tr, td 
+{
+border: 2px black;
+}
+
 
 
 
