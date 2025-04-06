@@ -16,6 +16,8 @@
  
 }
 
+a{ text-decoration: none !important; }
+
 .container
 {
 height: 50px;
@@ -29,10 +31,6 @@ margin-top: 2%;
 margin-left: 5%;
 margin-right: 5%;
 justify-content: center;
-text-decoration: none !important;
-border-bottom: none;
-color: inherit;
-color: white;
 }
 
 @media (width<800px)
@@ -51,9 +49,6 @@ color: white;
  justify-items: center;
  margin: 5px;
  font-size: 20px;
- text-decoration: none !important;
- border-bottom: none;
- color: inherit;
 }
 
 #contenuto2
@@ -85,7 +80,6 @@ color: white;
 height: 50px;
 display: flex;
 flex-direction: column;
-flex-wrap: wrap;
 background-color: rgb(201, 180, 172);
 margin-top: 2%;
 margin-left: 5%;
