@@ -121,7 +121,10 @@ top:50%;
 
 .aside-items
 {
- background-color: white;
+ background-color: orangered;
+ margin-right: 5%;
+ margin-bottom: 3%;
+ color: black;
 }
 
 
