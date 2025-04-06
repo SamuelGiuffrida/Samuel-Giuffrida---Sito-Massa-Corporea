@@ -130,8 +130,8 @@ width: 300px;
    left: auto;
    right: auto;
    flex-direction: row;
-   max-width: 50px;
    flex-wrap: wrap;
+   justify-content: center;
   }  
 }
 
