@@ -30,6 +30,8 @@ margin-left: 5%;
 margin-right: 5%;
 justify-content: center;
 text-decoration: none;
+border-bottom: none;
+color: inherit;
 }
 
 @media (width<800px)
@@ -48,8 +50,6 @@ text-decoration: none;
  justify-items: center;
  margin: 5px;
  font-size: 20px;
- text-decoration: none;
- border-bottom: none;
 
 }
 
