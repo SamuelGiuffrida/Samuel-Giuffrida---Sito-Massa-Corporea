@@ -50,7 +50,9 @@ color: inherit;
  justify-items: center;
  margin: 5px;
  font-size: 20px;
-
+ text-decoration: none;
+ border-bottom: none;
+ color: inherit;
 }
 
 #contenuto2
