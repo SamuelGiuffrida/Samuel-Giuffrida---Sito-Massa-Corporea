@@ -131,6 +131,7 @@ width: 300px;
    right: auto;
    flex-direction: row;
    max-width: 50px;
+   flex-wrap: wrap;
   }  
 }
 
