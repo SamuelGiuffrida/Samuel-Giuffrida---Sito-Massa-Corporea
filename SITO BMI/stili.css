@@ -67,7 +67,7 @@ justify-content: center;
  font-size: 30px;
 }
 
-.contenuto4
+#contenuto4
 {
  color: rgb(107, 107, 107);
  margin-left: 5%;
@@ -132,6 +132,13 @@ width: 300px;
  border-bottom: none;
 }
 
+.tabella
+{
+color: rgb(107, 107, 107);
+border: 1;
+width: 50%;
+margin-left: 5%;
+}
 
 
 
