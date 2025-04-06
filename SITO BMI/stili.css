@@ -124,7 +124,7 @@ width: 300px;
 
 @media (width<800px)
 {
-  .aside
+  .aside, .aside-items 
   {
    position:relative;
    left: auto;
