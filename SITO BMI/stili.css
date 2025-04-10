@@ -110,7 +110,7 @@ margin:5px;
  margin-right: 5%;
  font-size: 25px;
  background-color: rgba(189, 183, 181, 0.781);
- height: 150px;
+ height: 300px;
 }
 
 .aside
@@ -166,7 +166,7 @@ font-size: 30px;
 
 .sottomaschera
 {
-  font-size: 20%;
+  font-size: smaller;
   color: darkgreen;
 }
 
