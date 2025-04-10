@@ -95,7 +95,7 @@ background-color: white;
 margin-top: 2%;
 margin-left: 5%;
 margin-right: 5%;
-margin-bottom: 20%;
+margin-bottom: 5%;
 gap:5px;
 margin:5px;
 
@@ -162,12 +162,16 @@ font-size: 30px;
  color: black;
  margin-left: 5%;
  font-size: 30px;
+ position: relative;
+ margin-bottom: auto;
 }
 
 .sottomaschera
 {
   font-size: smaller;
   color: darkgreen;
+  position: relative;
+ margin-bottom: auto;
 }
 
 
