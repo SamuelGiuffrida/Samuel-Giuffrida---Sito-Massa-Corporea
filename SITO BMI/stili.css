@@ -167,10 +167,10 @@ font-size: 30px;
 .sottomaschera
 {
   font-size: smaller;
-  color: darkgreen;
+  color: rgb(104, 158, 104);
 }
 
-input {width: 200px; height: 50px;}
+input {width: 500px; height: 40px;}
 
 
 
