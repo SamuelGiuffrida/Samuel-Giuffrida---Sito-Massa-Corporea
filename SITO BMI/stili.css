@@ -133,9 +133,11 @@ width: 300px;
    flex-direction: column;
    flex-wrap: wrap;
    margin-left:14%;
-   bottom: auto;
-   
   }  
+  .aside
+  {
+    margin-top: 50%;
+  }
 }
 
 .aside-items
@@ -171,7 +173,7 @@ margin-bottom: 5%;
   color: rgb(111, 192, 111);
 }
 
-input {width: 500px; height: 40px;}
+input {width: 450px; height: 40px;}
 
 
 
